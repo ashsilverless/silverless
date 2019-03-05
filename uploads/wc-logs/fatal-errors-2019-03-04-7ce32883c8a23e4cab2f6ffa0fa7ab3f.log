@@ -1,0 +1,14 @@
+2019-03-04T09:34:59+00:00 CRITICAL syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /app/public/wp-content/themes/silverless/template-parts/hero.php on line 11
+
+2019-03-04T09:55:04+00:00 CRITICAL syntax error, unexpected 'Not' (T_STRING) in /app/public/wp-content/themes/silverless/template-parts/hero.php on line 10
+
+2019-03-04T09:56:34+00:00 CRITICAL syntax error, unexpected '!', expecting '(' in /app/public/wp-content/themes/silverless/template-parts/hero.php on line 10
+
+2019-03-04T09:56:35+00:00 CRITICAL syntax error, unexpected '!', expecting '(' in /app/public/wp-content/themes/silverless/template-parts/hero.php on line 10
+
+2019-03-04T09:57:46+00:00 CRITICAL syntax error, unexpected '==' (T_IS_EQUAL) in /app/public/wp-content/themes/silverless/template-parts/hero.php on line 10
+
+2019-03-04T09:58:00+00:00 CRITICAL syntax error, unexpected '==' (T_IS_EQUAL) in /app/public/wp-content/themes/silverless/template-parts/hero.php on line 10
+
+2019-03-04T09:59:03+00:00 CRITICAL syntax error, unexpected ':' in /app/public/wp-content/themes/silverless/template-parts/hero.php on line 10
+

@@ -1,0 +1,100 @@
+2019-02-15T11:48:12+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/photojourney/functions.php on line 184
+
+2019-02-15T11:48:25+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/photojourney/functions.php on line 184
+
+2019-02-15T11:48:26+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/photojourney/functions.php on line 184
+
+2019-02-15T11:48:41+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/photojourney/functions.php on line 184
+
+2019-02-15T11:48:50+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/photojourney/functions.php on line 184
+
+2019-02-15T11:48:56+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/photojourney/functions.php on line 184
+
+2019-02-15T11:49:34+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/photojourney/functions.php on line 184
+
+2019-02-15T11:49:55+00:00 CRITICAL Uncaught Error: Call to a member function is_in_stock() on null in /app/public/wp-content/themes/photojourney/page-templates/home.php:179
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 179
+
+2019-02-15T12:29:09+00:00 CRITICAL Uncaught Error: Call to undefined function twentyseventeen_edit_link() in /app/public/wp-content/themes/photojourney/page.php:13
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page.php on line 13
+
+2019-02-15T12:29:11+00:00 CRITICAL Uncaught Error: Call to undefined function twentyseventeen_edit_link() in /app/public/wp-content/themes/photojourney/page.php:13
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page.php on line 13
+
+2019-02-15T12:29:42+00:00 CRITICAL Uncaught Error: Call to undefined function twentyseventeen_edit_link() in /app/public/wp-content/themes/photojourney/page.php:13
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page.php on line 13
+
+2019-02-15T14:43:16+00:00 CRITICAL syntax error, unexpected '}' in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 185
+
+2019-02-15T14:58:37+00:00 CRITICAL Cannot redeclare wc_format_stock_for_display() (previously declared in /app/public/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php:1146) in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 205
+
+2019-02-15T14:58:38+00:00 CRITICAL Cannot redeclare wc_format_stock_for_display() (previously declared in /app/public/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php:1146) in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 205
+
+2019-02-15T15:01:05+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /app/public/wp-content/themes/photojourney/page-templates/home.php:195
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 195
+
+2019-02-15T15:01:05+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /app/public/wp-content/themes/photojourney/page-templates/home.php:195
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 195
+
+2019-02-15T15:01:40+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /app/public/wp-content/themes/photojourney/page-templates/home.php:195
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 195
+
+2019-02-15T15:01:40+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /app/public/wp-content/themes/photojourney/page-templates/home.php:195
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 195
+
+2019-02-15T15:03:17+00:00 CRITICAL Uncaught Error: Call to undefined function we_get_product() in /app/public/wp-content/themes/photojourney/page-templates/home.php:194
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 194
+
+2019-02-15T15:03:18+00:00 CRITICAL Uncaught Error: Call to undefined function we_get_product() in /app/public/wp-content/themes/photojourney/page-templates/home.php:194
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/page-templates/home.php on line 194
+

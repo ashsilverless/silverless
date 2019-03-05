@@ -1,0 +1,12 @@
+2019-02-25T11:31:04+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE), expecting end of file in /app/public/wp-content/themes/photojourney/single.php on line 26
+
+2019-02-25T11:31:11+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE), expecting end of file in /app/public/wp-content/themes/photojourney/single.php on line 26
+
+2019-02-25T14:51:47+00:00 CRITICAL Uncaught Error: Call to undefined function wdm_custom_excerpt() in /app/public/wp-content/themes/photojourney/single.php:108
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/photojourney/single.php on line 108
+

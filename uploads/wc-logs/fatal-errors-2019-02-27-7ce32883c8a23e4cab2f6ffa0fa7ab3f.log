@@ -1,0 +1,2 @@
+2019-02-27T16:20:09+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /app/public/wp-content/themes/silverless/page-templates/standard-page.php on line 39
+
